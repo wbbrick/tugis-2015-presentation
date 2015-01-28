@@ -1,0 +1,86 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title hide",
+        "data": {
+            "x": -5000,
+            "y": -5000,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -45
+        }
+    },
+    {
+        "uri": "introduction.html",
+        "id": "introduction",
+        "class": "step hide",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "d3.html",
+        "id": "d3",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 3000,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "d3-advantages.html",
+        "id": "d3-advantages",
+        "class": "step hide",
+        "data": {
+            "x": 0,
+            "y": 3000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "backbone.html",
+        "id": "backbone",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 6000,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "backbone-advantages.html",
+        "id": "backbone-advantages",
+        "class": "step hide",
+        "data": {
+            "x": 0,
+            "y": 6000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    }
+]
