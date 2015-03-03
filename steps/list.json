@@ -33,7 +33,7 @@
         "class": "step",
         "data": {
             "x": 0,
-            "y": 3000,
+            "y": 4000,
             "z": 0,
             "scale": 4,
             "rotate-x": 0,
@@ -47,10 +47,10 @@
         "class": "step hide",
         "data": {
             "x": 0,
-            "y": 3000,
+            "y": 4000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 45,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
         }
@@ -61,9 +61,9 @@
         "class": "step",
         "data": {
             "x": 0,
-            "y": 6000,
+            "y": 8000,
             "z": 0,
-            "scale": 4,
+            "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
@@ -75,10 +75,136 @@
         "class": "step hide",
         "data": {
             "x": 0,
-            "y": 6000,
+            "y": 8000,
+            "z": 0,
+            "scale": 0.25,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "challenges.html",
+        "id": "challenges",
+        "class": "step hide",
+        "data": {
+            "x": 2000,
+            "y": 8000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 45,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "dataset-size.html",
+        "id": "dataset-size",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 8000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "quick-turnaround.html",
+        "id": "quick-turnaround",
+        "class": "step hide",
+        "data": {
+            "x": 6000,
+            "y": 8000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "data-complexity.html",
+        "id": "data-complexity",
+        "class": "step",
+        "data": {
+            "x": 8000,
+            "y": 8000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "solutions.html",
+        "id": "solutions",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 10000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "data-breakdown.html",
+        "id": "data-breakdown",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 12000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "client-side-modeling.html",
+        "id": "client-side-modeling",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 14000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "architecture.html",
+        "id": "architecture",
+        "class": "step",
+        "data": {
+            "x": 8000,
+            "y": 16000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "architecture-diagram.html",
+        "id": "architecture-diagram",
+        "class": "step",
+        "data": {
+            "x": 8000,
+            "y": 18000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
         }

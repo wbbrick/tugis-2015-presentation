@@ -28,3 +28,16 @@
 	opacity: 0;
 }
 
+.centered {
+	text-align: center;
+}
+
+.step {
+	min-width:900px;
+	width: auto;
+}
+
+.code {
+	font-family: Courier new, fixed;
+	font-size: 20pt;
+}
