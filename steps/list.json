@@ -148,7 +148,7 @@
             "y": 10000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 90,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
         }
@@ -162,7 +162,7 @@
             "y": 12000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 90,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
         }
@@ -176,15 +176,15 @@
             "y": 14000,
             "z": 0,
             "scale": 1,
-            "rotate-x": 90,
+            "rotate-x": 0,
             "rotate-y": 0,
             "rotate-z": 0
         }
     },
     {
-        "uri": "architecture.html",
-        "id": "architecture",
-        "class": "step",
+        "uri": "d3-tools.html",
+        "id": "d3-tools",
+        "class": "step hide",
         "data": {
             "x": 8000,
             "y": 16000,
@@ -196,13 +196,55 @@
         }
     },
     {
-        "uri": "architecture-diagram.html",
-        "id": "architecture-diagram",
-        "class": "step",
+        "uri": "architecture.html",
+        "id": "architecture",
+        "class": "step hide",
         "data": {
             "x": 8000,
             "y": 18000,
             "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "architecture-diagram.html",
+        "id": "architecture-diagram",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 20000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "demo.html",
+        "id": "demo",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 20000,
+            "z": 2000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "conclusion.html",
+        "id": "conclusion",
+        "class": "step hide",
+        "data": {
+            "x": 8000,
+            "y": 20000,
+            "z": 4000,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,

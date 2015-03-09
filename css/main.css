@@ -41,3 +41,13 @@
 	font-family: Courier new, fixed;
 	font-size: 20pt;
 }
+
+.rounded {
+    background: #fff;
+    width: 620px;
+    margin: auto;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 20px #888;
+}
