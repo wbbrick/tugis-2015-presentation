@@ -250,5 +250,19 @@
             "rotate-y": 0,
             "rotate-z": 0
         }
+    },
+    {
+        "uri": "info.html",
+        "id": "info",
+        "class": "step",
+        "data": {
+            "x": 8000,
+            "y": 20000,
+            "z": 6000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
     }
 ]

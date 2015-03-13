@@ -7,14 +7,13 @@
     <title>Building interactive maps with D3 and Backbone</title>
 
     <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
-
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
-
-    <link href="bower_components/impress.js/css/impress-demo.css" rel="stylesheet" />
+	<link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+	<link href="bower_components/semantic-ui/dist/semantic.min.css" rel="stylesheet" type="text/css" />
+	
     <link href="css/impressConsole.css" rel="stylesheet" />
     <link href="css/main.css" rel="stylesheet" />
     <link href="css/clock.css" rel="stylesheet" />
-
 
     <link rel="shortcut icon" href="favicon.png" />
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
@@ -24,6 +23,15 @@
 
 <div id="impress" class="steps">
 </div>
+
+  <div id="header" class="ui three column grid">
+	<div class="column left"></div>
+	<div class="column middle"></div>
+	<div class="column right"></div>
+	<!--img src="images/header-left.png" />
+	<img src="images/header-middle.png" />
+	<img src="images/header-right.png" /-->
+  </div>
 
 
   <script src="bower_components/jquery/jquery.js"></script>
@@ -50,6 +58,12 @@
   });
   </script>
 
-
+  <div id="footer">
+	<div class="left">
+		<div class="top-line">Drive Innovation. <span class="together">Together.</span></div>
+		<div>Center for GIS | www.towson.edu/cgis</div>
+	</div>
+	<img class="right" src="images/CGIS-logo.png" />
+  </div>
 </body>
 </html>
