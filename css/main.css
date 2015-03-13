@@ -349,7 +349,11 @@ body     { pointer-events: none; }
 	/* -khtml-box-shadow:  0 0 2em rgba(0, 0, 0, 0.5) */
 	/* -moz-box-shadow:    0 0 2em rgba(0, 0, 0, 0.5) */
 	/* -webkit-box-shadow: 0 0 2em rgba(0, 0, 0, 0.5) */
-    box-shadow: 0 0 2em rgba(0, 0, 0, 0.5)
+
+}
+
+#header-box {
+    box-shadow: 0px 0px 2em rgba(0, 0, 0, 0.5)
 }
 
 #header div {
